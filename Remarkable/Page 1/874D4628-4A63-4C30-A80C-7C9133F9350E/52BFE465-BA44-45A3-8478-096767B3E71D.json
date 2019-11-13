@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "93255BCF-CF10-4237-9AD8-EC7546D87CB1",
+  "do_objectID": "52BFE465-BA44-45A3-8478-096767B3E71D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1001,
-    "width": 4003,
-    "x": 1,
-    "y": 0
+    "height": 1655,
+    "width": 1922,
+    "x": 905,
+    "y": 1394
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DA1F6FA7-2E05-4209-B9C2-049B3F8FC4C1",
+    "do_objectID": "3B21EC04-DF04-4D1E-B455-F6865A0B74D3",
     "endMarkerType": 0,
     "fills": [
       {
@@ -174,9 +174,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.7843137254901961,
-          "red": 0.3529411764705882
+          "blue": 0,
+          "green": 0.8,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
