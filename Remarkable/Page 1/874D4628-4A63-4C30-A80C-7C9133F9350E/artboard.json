@@ -60,6 +60,10 @@
     {
       "class": "rectangle",
       "id": "52BFE465-BA44-45A3-8478-096767B3E71D"
+    },
+    {
+      "class": "rectangle",
+      "id": "AABCD560-829E-4527-B45C-6E74F2F6482B"
     }
   ],
   "maintainScrollPosition": false,
